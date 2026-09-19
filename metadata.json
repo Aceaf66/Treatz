@@ -1,0 +1,6 @@
+{
+  "name": "Treatz",
+  "description": "Better Food. Happier Pets. Online pet food and pet-care shopping platform with personalized recommendations, subscriptions, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
